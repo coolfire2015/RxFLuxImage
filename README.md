@@ -1,1 +1,1 @@
-[![](https://jitpack.io/v/coolfire2015/RxFLuxImage.svg)](https://jitpack.io/#coolfire2015/RxFLuxImage)
+[![](https://jitpack.io/v/coolfire2015/RxFluxImage.svg)](https://jitpack.io/#coolfire2015/RxFluxImage)
